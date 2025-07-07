@@ -8,7 +8,7 @@
 ## 公開中のGPTs
 
 ### レシピカメラGPT  
-📎 [https://chatgpt.com/g/g-6821575e3e608191b8fcc2262eab20aa-resihikamera](https://chatgpt.com/g/g-6821575e3e608191b8fcc2262eab20aa-resihikamera)
+[https://chatgpt.com/g/g-6821575e3e608191b8fcc2262eab20aa-resihikamera](https://chatgpt.com/g/g-6821575e3e608191b8fcc2262eab20aa-resihikamera)
 
 **概要**:  
 冷蔵庫の中の写真から食材を読み取り、それに合ったレシピを提案してくれるGPTです。  
